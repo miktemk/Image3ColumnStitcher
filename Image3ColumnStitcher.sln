@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image3ColumnStitcher", "Image3ColumnStitcher\Image3ColumnStitcher.csproj", "{D56CAD07-BBB6-4597-95C5-5A8946CA2680}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyShittyControls", "MyShittyControls\MyShittyControls.csproj", "{BC34B694-D54D-41CD-A4B9-E07A55D135D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageSampler", "ImageSampler\ImageSampler.csproj", "{163FEE74-B8B3-473F-90CC-218FCD0AE7C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +39,16 @@ Global
 		{BC34B694-D54D-41CD-A4B9-E07A55D135D9}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{BC34B694-D54D-41CD-A4B9-E07A55D135D9}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{BC34B694-D54D-41CD-A4B9-E07A55D135D9}.Release|x86.ActiveCfg = Release|Any CPU
+		{163FEE74-B8B3-473F-90CC-218FCD0AE7C5}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{163FEE74-B8B3-473F-90CC-218FCD0AE7C5}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{163FEE74-B8B3-473F-90CC-218FCD0AE7C5}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{163FEE74-B8B3-473F-90CC-218FCD0AE7C5}.Debug|x86.ActiveCfg = Debug|x86
+		{163FEE74-B8B3-473F-90CC-218FCD0AE7C5}.Debug|x86.Build.0 = Debug|x86
+		{163FEE74-B8B3-473F-90CC-218FCD0AE7C5}.Release|Any CPU.ActiveCfg = Release|x86
+		{163FEE74-B8B3-473F-90CC-218FCD0AE7C5}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{163FEE74-B8B3-473F-90CC-218FCD0AE7C5}.Release|Mixed Platforms.Build.0 = Release|x86
+		{163FEE74-B8B3-473F-90CC-218FCD0AE7C5}.Release|x86.ActiveCfg = Release|x86
+		{163FEE74-B8B3-473F-90CC-218FCD0AE7C5}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
